@@ -2,7 +2,7 @@ Instrucciones
 
 
 
-Para ver los procedimientos que utilice es solo ir a gome controller, ahi esta la 'Magia'.
+Para ver los procedimientos que utilice es solo ir a home controller, ahi esta la 'Magia'.
 Utilice NUSOAP que es un plugin que se integra de manera sencilla a laravel, obviamente viendo tutorial, como mencione anteriormente, nunca cree ni consumi servicios.
 
 Feliz tarde, att
